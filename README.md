@@ -73,7 +73,7 @@ You must implement the web page following these requirements:
 
 **Color**: ​Both plots must include color as a channel to encode some data. E.g., using [d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic).
 
-**Interaction**: ​The expectation is that these plots are static except for the following requirement: at minimum one of your two plots should have a "details on demand" interaction, i.e., mouseover or click on bar/line to retrieve and display value.
+**Interaction**: ​The expectation is that these plots are static except for the following requirement: at minimum one of your two plots should have a "details on demand" interaction, i.e., mouseover or click on bar/line to retrieve and display value. This can't be just using `console.log` — it must be visible as part of the normal page.
 
 **Overall excellence**: Make sure your plots follow the design guidelines and rules of thumb discussed in the reading as well as lecture. 
 
