@@ -117,7 +117,7 @@ You are welcome to ask fellow classmates and students for help and discuss the a
 
 # Tips, tricks, and troubleshooting
 
-See https://github.com/NEU-CS-7250-S21-Staff/General_Course_Information/blob/master/altair.md
+See https://github.com/NEU-CS-7250-S21-Staff/General_Course_Information/.
 
 # Assignment setup (for instructors only)
 
