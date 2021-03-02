@@ -1,5 +1,5 @@
 // write your javascript code here.
-// feel free to change the preset attributes as you see fit
+// feel free to change the pre-set attributes as you see fit
 
 let margin = {
     top: 60,

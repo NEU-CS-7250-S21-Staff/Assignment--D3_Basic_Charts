@@ -53,9 +53,9 @@ Each folder has an explanatory `README.md` file.
 
 * `favicons` contains the favicons for the web page. You shouldn't change anything here.
 
-* `img` contains a descriptive image for the `README.md`.
+* `.github` contains [GitHub Actions](https://github.com/features/actions) ([docs](https://docs.github.com/en/actions)) which will automatically validate your HTML, CSS, and hyperlinks when you push (see the [**validation last step** below](#validated)). **Do not edit files here** except to create new `.yml` files for any additional actions you choose to add (you are not required to make any).
 
-* `.github` contains [GitHub Actions](https://github.com/features/actions) ([docs](https://docs.github.com/en/actions)) which will automatically validate your HTML, CSS, and hyperlinks when you push (see the [**Validated** requirement below](#validated)). **Do not edit files here** except to create new `.yml` files for any additional actions you choose to add (you are not required to make any).
+* `img` contains a descriptive image for the `README.md`.
 
 * `js` will contain all JavaScript files you write. E.g.,
 
